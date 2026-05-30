@@ -1,0 +1,15 @@
+/home/manu/Escritorio/Codigos/poli/Net/Formas/Formas/bin/Debug/net8.0/Formas
+/home/manu/Escritorio/Codigos/poli/Net/Formas/Formas/bin/Debug/net8.0/Formas.deps.json
+/home/manu/Escritorio/Codigos/poli/Net/Formas/Formas/bin/Debug/net8.0/Formas.runtimeconfig.json
+/home/manu/Escritorio/Codigos/poli/Net/Formas/Formas/bin/Debug/net8.0/Formas.dll
+/home/manu/Escritorio/Codigos/poli/Net/Formas/Formas/bin/Debug/net8.0/Formas.pdb
+/home/manu/Escritorio/Codigos/poli/Net/Formas/Formas/obj/Debug/net8.0/Formas.GeneratedMSBuildEditorConfig.editorconfig
+/home/manu/Escritorio/Codigos/poli/Net/Formas/Formas/obj/Debug/net8.0/Formas.AssemblyInfoInputs.cache
+/home/manu/Escritorio/Codigos/poli/Net/Formas/Formas/obj/Debug/net8.0/Formas.AssemblyInfo.cs
+/home/manu/Escritorio/Codigos/poli/Net/Formas/Formas/obj/Debug/net8.0/Formas.csproj.CoreCompileInputs.cache
+/home/manu/Escritorio/Codigos/poli/Net/Formas/Formas/obj/Debug/net8.0/Formas.sourcelink.json
+/home/manu/Escritorio/Codigos/poli/Net/Formas/Formas/obj/Debug/net8.0/Formas.dll
+/home/manu/Escritorio/Codigos/poli/Net/Formas/Formas/obj/Debug/net8.0/refint/Formas.dll
+/home/manu/Escritorio/Codigos/poli/Net/Formas/Formas/obj/Debug/net8.0/Formas.pdb
+/home/manu/Escritorio/Codigos/poli/Net/Formas/Formas/obj/Debug/net8.0/Formas.genruntimeconfig.cache
+/home/manu/Escritorio/Codigos/poli/Net/Formas/Formas/obj/Debug/net8.0/ref/Formas.dll

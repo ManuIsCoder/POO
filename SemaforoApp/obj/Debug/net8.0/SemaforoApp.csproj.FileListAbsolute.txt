@@ -1,0 +1,15 @@
+/home/manu/Escritorio/Codigos/poli/Net/SemaforoApp/bin/Debug/net8.0/SemaforoApp
+/home/manu/Escritorio/Codigos/poli/Net/SemaforoApp/bin/Debug/net8.0/SemaforoApp.deps.json
+/home/manu/Escritorio/Codigos/poli/Net/SemaforoApp/bin/Debug/net8.0/SemaforoApp.runtimeconfig.json
+/home/manu/Escritorio/Codigos/poli/Net/SemaforoApp/bin/Debug/net8.0/SemaforoApp.dll
+/home/manu/Escritorio/Codigos/poli/Net/SemaforoApp/bin/Debug/net8.0/SemaforoApp.pdb
+/home/manu/Escritorio/Codigos/poli/Net/SemaforoApp/obj/Debug/net8.0/SemaforoApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/manu/Escritorio/Codigos/poli/Net/SemaforoApp/obj/Debug/net8.0/SemaforoApp.AssemblyInfoInputs.cache
+/home/manu/Escritorio/Codigos/poli/Net/SemaforoApp/obj/Debug/net8.0/SemaforoApp.AssemblyInfo.cs
+/home/manu/Escritorio/Codigos/poli/Net/SemaforoApp/obj/Debug/net8.0/SemaforoApp.csproj.CoreCompileInputs.cache
+/home/manu/Escritorio/Codigos/poli/Net/SemaforoApp/obj/Debug/net8.0/SemaforoApp.dll
+/home/manu/Escritorio/Codigos/poli/Net/SemaforoApp/obj/Debug/net8.0/refint/SemaforoApp.dll
+/home/manu/Escritorio/Codigos/poli/Net/SemaforoApp/obj/Debug/net8.0/SemaforoApp.pdb
+/home/manu/Escritorio/Codigos/poli/Net/SemaforoApp/obj/Debug/net8.0/SemaforoApp.genruntimeconfig.cache
+/home/manu/Escritorio/Codigos/poli/Net/SemaforoApp/obj/Debug/net8.0/ref/SemaforoApp.dll
+/home/manu/Escritorio/Codigos/poli/Net/SemaforoApp/obj/Debug/net8.0/SemaforoApp.sourcelink.json
