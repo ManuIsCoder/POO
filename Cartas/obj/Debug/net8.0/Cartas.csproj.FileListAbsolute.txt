@@ -1,0 +1,15 @@
+/home/manu/Escritorio/Codigos/poli/Net/Cartas/bin/Debug/net8.0/Cartas
+/home/manu/Escritorio/Codigos/poli/Net/Cartas/bin/Debug/net8.0/Cartas.deps.json
+/home/manu/Escritorio/Codigos/poli/Net/Cartas/bin/Debug/net8.0/Cartas.runtimeconfig.json
+/home/manu/Escritorio/Codigos/poli/Net/Cartas/bin/Debug/net8.0/Cartas.dll
+/home/manu/Escritorio/Codigos/poli/Net/Cartas/bin/Debug/net8.0/Cartas.pdb
+/home/manu/Escritorio/Codigos/poli/Net/Cartas/obj/Debug/net8.0/Cartas.GeneratedMSBuildEditorConfig.editorconfig
+/home/manu/Escritorio/Codigos/poli/Net/Cartas/obj/Debug/net8.0/Cartas.AssemblyInfoInputs.cache
+/home/manu/Escritorio/Codigos/poli/Net/Cartas/obj/Debug/net8.0/Cartas.AssemblyInfo.cs
+/home/manu/Escritorio/Codigos/poli/Net/Cartas/obj/Debug/net8.0/Cartas.csproj.CoreCompileInputs.cache
+/home/manu/Escritorio/Codigos/poli/Net/Cartas/obj/Debug/net8.0/Cartas.sourcelink.json
+/home/manu/Escritorio/Codigos/poli/Net/Cartas/obj/Debug/net8.0/Cartas.dll
+/home/manu/Escritorio/Codigos/poli/Net/Cartas/obj/Debug/net8.0/refint/Cartas.dll
+/home/manu/Escritorio/Codigos/poli/Net/Cartas/obj/Debug/net8.0/Cartas.pdb
+/home/manu/Escritorio/Codigos/poli/Net/Cartas/obj/Debug/net8.0/Cartas.genruntimeconfig.cache
+/home/manu/Escritorio/Codigos/poli/Net/Cartas/obj/Debug/net8.0/ref/Cartas.dll

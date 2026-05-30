@@ -1,0 +1,15 @@
+/home/manu/Escritorio/Codigos/poli/Net/BAYC/bin/Debug/net8.0/BAYC
+/home/manu/Escritorio/Codigos/poli/Net/BAYC/bin/Debug/net8.0/BAYC.deps.json
+/home/manu/Escritorio/Codigos/poli/Net/BAYC/bin/Debug/net8.0/BAYC.runtimeconfig.json
+/home/manu/Escritorio/Codigos/poli/Net/BAYC/bin/Debug/net8.0/BAYC.dll
+/home/manu/Escritorio/Codigos/poli/Net/BAYC/bin/Debug/net8.0/BAYC.pdb
+/home/manu/Escritorio/Codigos/poli/Net/BAYC/obj/Debug/net8.0/BAYC.GeneratedMSBuildEditorConfig.editorconfig
+/home/manu/Escritorio/Codigos/poli/Net/BAYC/obj/Debug/net8.0/BAYC.AssemblyInfoInputs.cache
+/home/manu/Escritorio/Codigos/poli/Net/BAYC/obj/Debug/net8.0/BAYC.AssemblyInfo.cs
+/home/manu/Escritorio/Codigos/poli/Net/BAYC/obj/Debug/net8.0/BAYC.csproj.CoreCompileInputs.cache
+/home/manu/Escritorio/Codigos/poli/Net/BAYC/obj/Debug/net8.0/BAYC.sourcelink.json
+/home/manu/Escritorio/Codigos/poli/Net/BAYC/obj/Debug/net8.0/BAYC.dll
+/home/manu/Escritorio/Codigos/poli/Net/BAYC/obj/Debug/net8.0/refint/BAYC.dll
+/home/manu/Escritorio/Codigos/poli/Net/BAYC/obj/Debug/net8.0/BAYC.pdb
+/home/manu/Escritorio/Codigos/poli/Net/BAYC/obj/Debug/net8.0/BAYC.genruntimeconfig.cache
+/home/manu/Escritorio/Codigos/poli/Net/BAYC/obj/Debug/net8.0/ref/BAYC.dll

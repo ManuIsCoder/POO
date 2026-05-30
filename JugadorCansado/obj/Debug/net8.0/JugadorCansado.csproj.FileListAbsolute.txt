@@ -1,0 +1,15 @@
+/home/manu/Escritorio/Codigos/poli/Net/JugadorCansado/obj/Debug/net8.0/JugadorCansado.GeneratedMSBuildEditorConfig.editorconfig
+/home/manu/Escritorio/Codigos/poli/Net/JugadorCansado/obj/Debug/net8.0/JugadorCansado.AssemblyInfoInputs.cache
+/home/manu/Escritorio/Codigos/poli/Net/JugadorCansado/obj/Debug/net8.0/JugadorCansado.AssemblyInfo.cs
+/home/manu/Escritorio/Codigos/poli/Net/JugadorCansado/obj/Debug/net8.0/JugadorCansado.csproj.CoreCompileInputs.cache
+/home/manu/Escritorio/Codigos/poli/Net/JugadorCansado/bin/Debug/net8.0/JugadorCansado
+/home/manu/Escritorio/Codigos/poli/Net/JugadorCansado/bin/Debug/net8.0/JugadorCansado.deps.json
+/home/manu/Escritorio/Codigos/poli/Net/JugadorCansado/bin/Debug/net8.0/JugadorCansado.runtimeconfig.json
+/home/manu/Escritorio/Codigos/poli/Net/JugadorCansado/bin/Debug/net8.0/JugadorCansado.dll
+/home/manu/Escritorio/Codigos/poli/Net/JugadorCansado/bin/Debug/net8.0/JugadorCansado.pdb
+/home/manu/Escritorio/Codigos/poli/Net/JugadorCansado/obj/Debug/net8.0/JugadorCansado.dll
+/home/manu/Escritorio/Codigos/poli/Net/JugadorCansado/obj/Debug/net8.0/refint/JugadorCansado.dll
+/home/manu/Escritorio/Codigos/poli/Net/JugadorCansado/obj/Debug/net8.0/JugadorCansado.pdb
+/home/manu/Escritorio/Codigos/poli/Net/JugadorCansado/obj/Debug/net8.0/JugadorCansado.genruntimeconfig.cache
+/home/manu/Escritorio/Codigos/poli/Net/JugadorCansado/obj/Debug/net8.0/ref/JugadorCansado.dll
+/home/manu/Escritorio/Codigos/poli/Net/JugadorCansado/obj/Debug/net8.0/JugadorCansado.sourcelink.json

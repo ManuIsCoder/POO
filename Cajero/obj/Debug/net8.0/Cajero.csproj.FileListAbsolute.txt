@@ -1,0 +1,15 @@
+/home/manu/Escritorio/Codigos/poli/Net/Cajero/obj/Debug/net8.0/Cajero.GeneratedMSBuildEditorConfig.editorconfig
+/home/manu/Escritorio/Codigos/poli/Net/Cajero/obj/Debug/net8.0/Cajero.AssemblyInfoInputs.cache
+/home/manu/Escritorio/Codigos/poli/Net/Cajero/obj/Debug/net8.0/Cajero.AssemblyInfo.cs
+/home/manu/Escritorio/Codigos/poli/Net/Cajero/obj/Debug/net8.0/Cajero.csproj.CoreCompileInputs.cache
+/home/manu/Escritorio/Codigos/poli/Net/Cajero/obj/Debug/net8.0/Cajero.sourcelink.json
+/home/manu/Escritorio/Codigos/poli/Net/Cajero/bin/Debug/net8.0/Cajero
+/home/manu/Escritorio/Codigos/poli/Net/Cajero/bin/Debug/net8.0/Cajero.deps.json
+/home/manu/Escritorio/Codigos/poli/Net/Cajero/bin/Debug/net8.0/Cajero.runtimeconfig.json
+/home/manu/Escritorio/Codigos/poli/Net/Cajero/bin/Debug/net8.0/Cajero.dll
+/home/manu/Escritorio/Codigos/poli/Net/Cajero/bin/Debug/net8.0/Cajero.pdb
+/home/manu/Escritorio/Codigos/poli/Net/Cajero/obj/Debug/net8.0/Cajero.dll
+/home/manu/Escritorio/Codigos/poli/Net/Cajero/obj/Debug/net8.0/refint/Cajero.dll
+/home/manu/Escritorio/Codigos/poli/Net/Cajero/obj/Debug/net8.0/Cajero.pdb
+/home/manu/Escritorio/Codigos/poli/Net/Cajero/obj/Debug/net8.0/Cajero.genruntimeconfig.cache
+/home/manu/Escritorio/Codigos/poli/Net/Cajero/obj/Debug/net8.0/ref/Cajero.dll
